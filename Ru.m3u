@@ -1,0 +1,229 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
+http://46.72.222.3:1234/udp/239.0.3.1:3000
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
+http://uiptv.do.am/1ufc/000000001/playlist.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал HD" group-title="Russisch",Первый канал HD
+#
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия 1" group-title="Russisch",Россия 1
+http://46.72.222.3:1234/udp/239.0.3.2:3000
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия 1" group-title="Russisch",Россия 1
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия 1" group-title="Russisch",Россия 1 HD
+http://bal.bonus-tv.ru/btv/russiahd/type/user/devname/LG-SmartTV/devid/LG-1428090937/eol/20200101T000000/hash/b6658f89a7f1f270966b9ab9c73c35a3c9e1a249/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия РТР" group-title="Russisch",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия РТР" group-title="Russisch",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="РТР Планета" group-title="Russisch",РТР Планета
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Планета РТР" group-title="Russisch",Планета РТР
+#
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия 24" group-title="Russisch",Россия 24
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Планета K" group-title="Russisch",Планета K
+http://uiptv.do.am/1ufc/000000005/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Домашний" group-title="Russisch",Домашний
+https://hls.peers.tv/streaming/domashny/126/tvrec/playlist.m3u8?token=75fbeedeb1c15d0a03a83c5c3a74bcc6
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Звезда" group-title="Russisch",Звезда
+http://btv-net.mediacdn.ru/TVB8/zvezda/playlist.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Звезда" group-title="Russisch",Звезда
+http://win.cdn.bonus-tv.ru/TVB8/zvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ОТР" group-title="Russisch",ОТР
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="РБК" group-title="Russisch",РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Ностальгия" group-title="Russisch",Ностальгия
+#
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="5 канал" group-title="Russisch",5 канал
+http://79.165.95.225:81/udp/239.255.2.28:1234
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Карусель" group-title="Russisch",Карусель
+http://uiptv.do.am/1ufc/000000007/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ТВЦ" group-title="Russisch",ТВЦ
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Мир" group-title="Russisch",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Мир24" group-title="Russisch",Мир24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="РЕН ТВ" group-title="Russisch",РЕН ТВ
+http://178.162.205.119:8081/chas/rentv.stream/chunks.m3u8?nimblesessionid=184896286&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMTcgODo1NTozMyBBTSZoYXNoX3ZhbHVlPVc2aXo0a0JpMzJuc2t2eFZvd2JyZUE9PSZ2YWxpZG1pbnV0ZXM9MjAw
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="РЕН ТВ" group-title="Russisch",РЕН ТВ
+http://37.48.89.18/video/ZUD-BG6P_WlILyhIrifjVw/8/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ТНТ" group-title="Russisch",ТНТ
+http://109.110.33.66:8080/QKZFANtlzwBxDuOB.stream_360p/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ТНТ+2" group-title="Russisch",ТНТ+2
+#
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="НТВ" group-title="Russisch",НТВ
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ВМЕСТЕ РФ" group-title="Russisch",ВМЕСТЕ РФ
+http://btv-net.mediacdn.ru/TVB7/vmesterf/playlist.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ВМЕСТЕ-РФ HD" group-title="Russisch",ВМЕСТЕ-РФ HD
+http://cdn-01.bonus-tv.ru/TVB7/vmesterf/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Красная линия" group-title="Russisch",Красная линия
+#
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Vollna TV" group-title="Russisch",Vollna TV
+#
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Barbariki TV" group-title="Russisch",Barbariki TV
+rtmp://planetaonline.cdnvideo.ru/rr/channel_6
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Муз" group-title="Russisch",Муз
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Pik tv" group-title="Russisch",Pik tv
+rtmp://fms.pik-tv.com/live/piktv2pik2tv
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="РЖД TB" group-title="Russisch",РЖД TB
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Москва 24" group-title="Russisch",Москва 24
+#
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="LiFE News" group-title="Russisch",LiFE News(360p)
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="LiFE News" group-title="Russisch",LiFE News(720p)
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="1HD" group-title="Russisch",1HD
+http://80.250.191.10:1935/live/livestream3/chunklist_w1536366398.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="МУЗ-ТВ" group-title="Russisch",МУЗ-ТВ
+#
+
+###############################################################################################################
+###############################################################################################################
+
+#EXTINF:-1 tvg-id="ARD.de" tvg-logo="ard.png",ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
+
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="tagesschau24.png",TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="zdfneo.png",ZDF NEO
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="zdfinfo.png",ZDF INFO
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDFtheater.de" tvg-logo="zdfkultur.png",ZDF KULTUR
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="3sat.png",3SAT
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="phoenix.png",PHOENIX
+http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
+
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="arte.png",ARTE
+
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="servustv.png",SERVUS TV
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="n-tv.png",N-TV
+
+#EXTINF:-1 tvg-id="n24.de" tvg-logo="n24.png",N24
+
+#EXTINF:-1 tvg-id="MDRThuringen.de" tvg-logo="mdr.png",MDR THÜRINGEN
+http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
+
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-logo="mdr.png",MDR SACHSEN-ANHALT
+http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
+
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-logo="mdr.png",MDR SACHSEN
+http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8
+
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="ndr.png",NDR HAMBURG
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
+
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="ndr.png",NDR MECKLENBURG-VORPOMMERN
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8
+
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="ndr.png",NDR NIEDERSACHSEN
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="ndr.png",NDR SCHLESWIG-HOLSTEIN
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/master.m3u8
+
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="srfernsehen.png",SR
+http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+
+#EXTINF:-1 tvg-id="SWR-rp.de" tvg-logo="swr.png",SWR RHEINLAND-PFALZ
+http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
+
+#EXTINF:-1 tvg-id="SWR.de" tvg-logo="swr.png",SWR BADEN-WÜRTTEMBERG
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+
+#EXTINF:-1 tvg-id="WDR.de" tvg-logo="wdr.png",WDR
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
+
+#EXTINF:-1 tvg-id="BR.de" tvg-logo="br.png",BR NORD
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+
+#EXTINF:-1 tvg-id="BR.de" tvg-logo="br.png",BR SÜD
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-logo="ard-alpha.png",ARD-ALPHA
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+
+#EXTINF:-1 tvg-id="HR.de" tvg-logo="hr-fernsehen.png",HR-FERNSEHEN
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+
+#EXTINF:-1 tvg-id="rbbBrandenburg.de" tvg-logo="rbb.png",RBB BRANDENBURG
+
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-logo="rbb.png",RBB BERLIN
+
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="disneychannel.png",DISNEY CHANNEL
+
+#EXTINF:-1 tvg-id="RiC.de" tvg-logo="ric.png",RIC
+
+#EXTINF:-1 tvg-id="Kika.de" tvg-logo="kika.png",KIKA
+http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
+
+#EXTINF:-1 tvg-id="Anixe.de" tvg-logo="anixesd.png",ANIXE
+
+#EXTINF:-1 tvg-id="Tectime.de" tvg-logo="tectimetv.png",TECTIME TV
+
+#EXTINF:-1 tvg-id="FamilyTV.de" tvg-logo="familytv.png",FAMILY TV
+
+#EXTINF:-1 tvg-id="Blizz.de" tvg-logo="blizztv.png",BLIZZ TV
+
+#EXTINF:-1 tvg-id="joiz.de" tvg-logo="joiz.png",JOIZ
+
+#EXTINF:-1 tvg-id="go.tv" tvg-logo="gotv.png",GOTV
+
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-logo="deluxemusic.png",DELUXE MUSIC
+
+#EXTINF:-1 tvg-id="xite.tv" tvg-logo="xite.png",XITE
+
+#EXTINF:-1 tvg-logo="vevotv.png",VEVO TV 1
+
+#EXTINF:-1 tvg-logo="vevotv.png",VEVO TV 2
+
+#EXTINF:-1 tvg-logo="vevotv.png",VEVO TV 3
+
+#EXTINF:-1 tvg-logo="vevotv.png",VEVO TV DE
+
+#EXTINF:0,
