@@ -59,6 +59,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ТНТ" group-title="Russisch",ТНТ
 http://109.110.33.66:8080/QKZFANtlzwBxDuOB.stream_360p/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ТНТ" group-title="Russisch",ТНТ
+https://r5---sn-4g5e6nlk.googlevideo.com/videoplayback?keepalive=yes&c=WEB&aitags=133%2C134%2C135%2C136%2C160&ipbits=0&key=yt6&expire=1545962838&mv=m&gcr=de&ms=lv&id=naHfY4SX8Ts.1&mn=sn-4g5e6nlk&pl=52&source=yt_live_broadcast&mm=32&ip=2003%3A6%3A5178%3A3544%3Ae16c%3Ad91d%3Af861%3Ad8d1&mime=video%2Fmp4&requiressl=yes&ei=9jAlXJiCHsOHV6_2rrgG&sparams=aitags%2Ccmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&gir=yes&cmbypass=yes&live=1&itag=136&hang=1&signature=51B4B25A52FDD3672810B2957DBE7A3CFC7B88EF.D6EF734AC73B841D83C8E78D4146B73A301CE15D&noclen=1&initcwndbps=916250&mt=1545941133
 
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ТНТ+2" group-title="Russisch",ТНТ+2
 #
