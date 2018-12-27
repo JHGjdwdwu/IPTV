@@ -19,15 +19,13 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u
 #
 
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия 24" group-title="Russisch",Россия 24
-http://stream6.kuvalda.tv/hls/rus24.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия 24" group-title="Russisch",Россия 24
 https://r3---sn-4g5e6n7d.googlevideo.com/videoplayback?gir=yes&id=K59KKnIbIaM.3&cmbypass=yes&noclen=1&gcr=de&sparams=aitags%2Ccmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&ip=2003%3A6%3A5178%3A3544%3Ae16c%3Ad91d%3Af861%3Ad8d1&keepalive=yes&source=yt_live_broadcast&ms=lv&mv=u&mt=1545935339&mn=sn-4g5e6n7d&mm=32&requiressl=yes&mime=video%2Fmp4&ei=ExslXNWfA4vo1gaM2pyoBQ&itag=136&ipbits=0&signature=66C2ABC3DE149CF5E7FF3B4FD39DA26941FA74BB.C0B3CCE38536820C9B3AF1B8027F189134B9110B&hang=1&expire=1545957235&pl=52&aitags=133%2C134%2C135%2C136%2C160&c=WEB&key=yt6&live=1
 
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Планета K" group-title="Russisch",Планета K
 http://uiptv.do.am/1ufc/000000005/playlist.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Домашний" group-title="Russisch",Домашний
-http://stream6.kuvalda.tv/hls/dom.m3u8
+#
 
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Звезда" group-title="Russisch",Звезда
 #
