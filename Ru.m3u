@@ -1,10 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
-http://stream5.kuvalda.tv/hls/first.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
-https://www.1tv.ru/iframed/eump-embedlive_pdn.html?__dvr=yes
-#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
 http://50.7.127.60:8081/perkanal/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg6ffa557df1cfe9ebdbf9e06dcc6149ddT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал HD" group-title="Russisch",Первый канал HD
 #
