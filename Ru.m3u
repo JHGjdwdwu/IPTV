@@ -1,8 +1,6 @@
 #EXTM3U
 #
-#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
-http://stream2.kuvalda.tv/hls/first.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="https://github.com/JHGjdwdwu/IPTV/blob/master/logo/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.svg" group-title="Russisch",Первый канал
 https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv3.m3u8?cdn=https://live1tvakamai.akamaized.net&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1572281073&s=bMGgTLVkuhup6jYoTBA5Ps8e9Ty580Mqug2tEBItqR86R83ZJ7U0btrsDnCsPuTObFXUbAi%2BVHwOn70tl%2BrsMdOidSVKXUukoiBiqI1%2Bi%2B2TvWOSXh6aU4DLDu45cykni%2F55mJyUBT1QaFC9DMWwTfvqmYWq5621XFk70tPvwQmU%2FH5dmOxh9i%2Bn9e213iP8&__fvd__
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
 https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv3.m3u8?cdn=https://live1tvakamai.akamaized.net&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1572281484&s=bMGgTLVkuhup6jYoTBA5Ps8e9Ty580Mqug2tEBItqR86R83ZJ7U0btrsDnCsPuTObFXUbAi%2BVHwOn70tl%2BrsMdOidSVKXUukoiBiqI1%2Bi%2B2TvWOSXh6aU4DLDu45cykni%2F55mJyUBT1QaFC9DMWwTfvqmYWq5621XFk70tPvwQmU%2FH5dmOxh9i%2Bn9e213iP8&__fvd__
