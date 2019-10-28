@@ -1,104 +1,88 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
-http://50.7.127.60:8081/perkanal/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg6ffa557df1cfe9ebdbf9e06dcc6149ddT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал HD" group-title="Russisch",Первый канал HD
 #
-
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
+http://stream2.kuvalda.tv/hls/first.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
+https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv3.m3u8?cdn=https://live1tvakamai.akamaized.net&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1572281073&s=bMGgTLVkuhup6jYoTBA5Ps8e9Ty580Mqug2tEBItqR86R83ZJ7U0btrsDnCsPuTObFXUbAi%2BVHwOn70tl%2BrsMdOidSVKXUukoiBiqI1%2Bi%2B2TvWOSXh6aU4DLDu45cykni%2F55mJyUBT1QaFC9DMWwTfvqmYWq5621XFk70tPvwQmU%2FH5dmOxh9i%2Bn9e213iP8&__fvd__
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Первый канал" group-title="Russisch",Первый канал
+https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv3.m3u8?cdn=https://live1tvakamai.akamaized.net&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1572281484&s=bMGgTLVkuhup6jYoTBA5Ps8e9Ty580Mqug2tEBItqR86R83ZJ7U0btrsDnCsPuTObFXUbAi%2BVHwOn70tl%2BrsMdOidSVKXUukoiBiqI1%2Bi%2B2TvWOSXh6aU4DLDu45cykni%2F55mJyUBT1QaFC9DMWwTfvqmYWq5621XFk70tPvwQmU%2FH5dmOxh9i%2Bn9e213iP8&__fvd__
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия 1" group-title="Russisch",Россия 1
 http://uiptv.do.am/1ufc/000000002/playlist.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия 1" group-title="Russisch",Россия 1 HD
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия 1" group-title="Russisch",Россия 1
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия РТР" group-title="Russisch",Россия РТР
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-
+https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия РТР" group-title="Russisch",Россия РТР
+https://a3569457661-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="РТР Планета" group-title="Russisch",РТР Планета
-
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Планета РТР" group-title="Russisch",Планета РТР
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Россия 24" group-title="Russisch",Россия 24
-https://r3---sn-4g5e6n7d.googlevideo.com/videoplayback?gir=yes&id=K59KKnIbIaM.3&cmbypass=yes&noclen=1&gcr=de&sparams=aitags%2Ccmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&ip=2003%3A6%3A5178%3A3544%3Ae16c%3Ad91d%3Af861%3Ad8d1&keepalive=yes&source=yt_live_broadcast&ms=lv&mv=u&mt=1545935339&mn=sn-4g5e6n7d&mm=32&requiressl=yes&mime=video%2Fmp4&ei=ExslXNWfA4vo1gaM2pyoBQ&itag=136&ipbits=0&signature=66C2ABC3DE149CF5E7FF3B4FD39DA26941FA74BB.C0B3CCE38536820C9B3AF1B8027F189134B9110B&hang=1&expire=1545957235&pl=52&aitags=133%2C134%2C135%2C136%2C160&c=WEB&key=yt6&live=1
-
+http://stream2.kuvalda.tv/hls/rus24.m3u8
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Планета K" group-title="Russisch",Планета K
 http://uiptv.do.am/1ufc/000000005/playlist.m3u8
-
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Домашний" group-title="Russisch",Домашний
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Звезда" group-title="Russisch",Звезда
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ОТР" group-title="Russisch",ОТР
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="РБК" group-title="Russisch",РБК
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-
+#
+#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="РБК" group-title="Russisch",РБК+
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Ностальгия" group-title="Russisch",Ностальгия
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="5 канал" group-title="Russisch",5 канал
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Карусель" group-title="Russisch",Карусель
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ТВЦ" group-title="Russisch",ТВЦ
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
-
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Мир" group-title="Russisch",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Мир24" group-title="Russisch",Мир24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="РЕН ТВ" group-title="Russisch",РЕН ТВ
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ТНТ" group-title="Russisch",ТНТ
-http://109.110.33.66:8080/QKZFANtlzwBxDuOB.stream_360p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ТНТ" group-title="Russisch",ТНТ
-https://r5---sn-4g5e6nlk.googlevideo.com/videoplayback?keepalive=yes&c=WEB&aitags=133%2C134%2C135%2C136%2C160&ipbits=0&key=yt6&expire=1545962838&mv=m&gcr=de&ms=lv&id=naHfY4SX8Ts.1&mn=sn-4g5e6nlk&pl=52&source=yt_live_broadcast&mm=32&ip=2003%3A6%3A5178%3A3544%3Ae16c%3Ad91d%3Af861%3Ad8d1&mime=video%2Fmp4&requiressl=yes&ei=9jAlXJiCHsOHV6_2rrgG&sparams=aitags%2Ccmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&gir=yes&cmbypass=yes&live=1&itag=136&hang=1&signature=51B4B25A52FDD3672810B2957DBE7A3CFC7B88EF.D6EF734AC73B841D83C8E78D4146B73A301CE15D&noclen=1&initcwndbps=916250&mt=1545941133
-
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ТНТ+2" group-title="Russisch",ТНТ+2
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="НТВ" group-title="Russisch",НТВ
-
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ВМЕСТЕ РФ" group-title="Russisch",ВМЕСТЕ РФ
 #
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="ВМЕСТЕ-РФ HD" group-title="Russisch",ВМЕСТЕ-РФ HD
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Красная линия" group-title="Russisch",Красная линия
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Vollna TV" group-title="Russisch",Vollna TV
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Barbariki TV" group-title="Russisch",Barbariki TV
 #
-
-#EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Муз" group-title="Russisch",Муз
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Pik tv" group-title="Russisch",Pik tv
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="РЖД TB" group-title="Russisch",РЖД TB
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-
+#
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="Москва 24" group-title="Russisch",Москва 24
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="LiFE News" group-title="Russisch",LiFE News
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="1HD" group-title="Russisch",1HD
 #
-
 #EXTINF:-1 tvg-shift=0 tvg-id="" tvg-logo="МУЗ-ТВ" group-title="Russisch",МУЗ-ТВ
 #
-
 #EXTINF:0,
